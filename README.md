@@ -1,12 +1,11 @@
 # API Connections and Web Scraping Project
 
-This project demonstrates how to connect to Spotify and SoundCloud APIs using Python, and includes a web scraper for extracting song information from chord websites.
+This project connects Spotify data and scrapes GuitarTabs chord progressions using Python, and includes a web scraper for extracting song information from chord websites.
 
 ## Prerequisites
 
 - Python 3.8 or higher
 - Spotify Developer Account
-- SoundCloud Developer Account
 
 ## Setup
 
